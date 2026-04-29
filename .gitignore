@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local dev
+node_modules/
+*.log
+
+# Anything Claude writes during local testing
+.claude/
